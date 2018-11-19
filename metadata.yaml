@@ -1,5 +1,5 @@
 _repo: Pic-the-Weapon-Maker_58198
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Osborn, Henry Fairfield
@@ -13,9 +13,14 @@ contributor:
     agent_name: Langford, George
     gutenberg_agent_id: '49821'
     url: http://www.gutenberg.org/2009/agents/49821
+covers:
+- cover_type: archival
+  image_path: 58198-h/images/insidecover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58198#Pic-the-Weapon-Maker
 gutenberg_issued: '2018-10-30'
 gutenberg_type: Text
 identifiers:
